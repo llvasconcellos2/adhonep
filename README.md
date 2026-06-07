@@ -73,6 +73,7 @@ The system was originally deployed in 2009 and remained in active use through 20
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DEMO -->
+
 ## Demo
 
 <div align="center">
@@ -116,7 +117,7 @@ The system was originally deployed in 2009 and remained in active use through 20
 |                                                                                                               | Framework   | Version |
 | ------------------------------------------------------------------------------------------------------------- | ----------- | ------- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="20" /> | CodeIgniter | 2.1.3   |
-|                                                                                                               | Ext JS      | 3.0.0   |
+| <img src="https://www.sencha.com/wp-content/uploads/2020/12/ExtJS_logo_svg.svg" height="20">                  | Ext JS      | 3.0.0   |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />          | MySQL       | —       |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
